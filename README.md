@@ -12,7 +12,7 @@
     
 </div>
 <div>
-  <img align="right" height="600em" src=https://raw.githubusercontent.com/gist/FilipeeOliveira/9c671cfba552b8a78f8c3fb21401f0ca/raw/c4bd04ef73bd8dead57cdc674a0562c2bd04cb0d/githubcard.svg>
+  <img align="right" height="600em" src=https://raw.githubusercontent.com/gist/FilipeeOliveira/f7e2174d06b414a8949c83876b70e68c/raw/fb2a82b85151303efb19fe1dc2c392745b51ed0e/githubcard.svg>
 </div>
 <div align="left">
   <h3 align="center">Sobre mim:</h3>
@@ -46,7 +46,7 @@
   <img align="center" alt="Tai-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Filipe-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Filipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tai-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Tai-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 
    ##
    
