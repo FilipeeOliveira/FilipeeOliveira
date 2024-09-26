@@ -12,14 +12,14 @@
     
 </div>
 <div>
-  <img align="right" height="600em" src=https://raw.githubusercontent.com/gist/FilipeeOliveira/f7e2174d06b414a8949c83876b70e68c/raw/fb2a82b85151303efb19fe1dc2c392745b51ed0e/githubcard.svg>
+  <img align="right" height="600em" src=https://raw.githubusercontent.com/gist/FilipeeOliveira/01e413322f56116017444fe22c687df1/raw/c6cef08b10356030a211c483b378cb12023e6cf5/githubcard.svg>
 </div>
 <div align="left">
   <h3 align="center">Sobre mim:</h3>
     
-  - 💻 Atualmente cursando Full-Stack pelo One Bit Code.<br>
+  - 💻 Freelancer FullStack Developer.<br>
     
-  - 🏢 Procurando minha primeira vaga de estágio na área.<br>
+  - 🏢 Estagiario em Desenvolvimento de Sofware pelo IBBI.<br>
     
   - 📚 Cursando Bacharelado em Sistema da Informação.<br>
     
@@ -52,6 +52,6 @@
    
 <div align="center"> 
   <h3>Contatos:</h3>
-  <a href="#######" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!--<a href="#######" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "filipe.jx.10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-leite-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
