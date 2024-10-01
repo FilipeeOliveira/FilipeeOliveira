@@ -19,7 +19,7 @@
     
   - 💻 Freelancer FullStack Developer.<br>
     
-  - 🏢 Estagiario em Desenvolvimento de Sofware pelo IBBI.<br>
+  - 🏢 Estagiario em Desenvolvimento de Sofware pelo IBBI. 🤖 🌱<br>
     
   - 📚 Cursando Bacharelado em Sistema da Informação.<br>
     
