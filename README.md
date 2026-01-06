@@ -17,11 +17,9 @@
 <div align="left">
   <h3 align="center">Sobre mim:</h3>
     
-  - 💻 Freelancer FullStack Developer.<br>
+  - 💻 FullStack Developer.<br>
     
-  - 🏢 Estagiario em Desenvolvimento de Sofware pelo IBBI. 🤖 🌱<br>
-    
-  - 📚 Cursando Bacharelado em Sistema da Informação.<br>
+  - 📚 Bacharelado em Sistema da Informação.<br>
     
   - 💡 Uma palavra que me defina: Otimismo.
     
